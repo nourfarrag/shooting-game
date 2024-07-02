@@ -1,0 +1,54 @@
+C:\Users\user\source\repos\BIGGame\bin\Debug\BIGGame.exe.config
+C:\Users\user\source\repos\BIGGame\bin\Debug\BIGGame.exe
+C:\Users\user\source\repos\BIGGame\bin\Debug\BIGGame.pdb
+C:\Users\user\source\repos\BIGGame\obj\Debug\BIGGame.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BIGGame\obj\Debug\BIGGame.Properties.Resources.resources
+C:\Users\user\source\repos\BIGGame\obj\Debug\BIGGame.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BIGGame\obj\Debug\BIGGame.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BIGGame\obj\Debug\BIGGame.exe
+C:\Users\user\source\repos\BIGGame\obj\Debug\BIGGame.pdb
+C:\Users\DELL\OneDrive\المستندات\BIGGame[1]\BIGGame\bin\Debug\BIGGame.exe.config
+C:\Users\DELL\OneDrive\المستندات\BIGGame[1]\BIGGame\bin\Debug\BIGGame.exe
+C:\Users\DELL\OneDrive\المستندات\BIGGame[1]\BIGGame\bin\Debug\BIGGame.pdb
+C:\Users\DELL\OneDrive\المستندات\BIGGame[1]\BIGGame\obj\Debug\BIGGame.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\المستندات\BIGGame[1]\BIGGame\obj\Debug\BIGGame.Properties.Resources.resources
+C:\Users\DELL\OneDrive\المستندات\BIGGame[1]\BIGGame\obj\Debug\BIGGame.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\المستندات\BIGGame[1]\BIGGame\obj\Debug\BIGGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\المستندات\BIGGame[1]\BIGGame\obj\Debug\BIGGame.exe
+C:\Users\DELL\OneDrive\المستندات\BIGGame[1]\BIGGame\obj\Debug\BIGGame.pdb
+C:\Users\user\Desktop\BIGGame1\BIGGame\bin\Debug\BIGGame.exe.config
+C:\Users\user\Desktop\BIGGame1\BIGGame\bin\Debug\BIGGame.exe
+C:\Users\user\Desktop\BIGGame1\BIGGame\bin\Debug\BIGGame.pdb
+C:\Users\user\Desktop\BIGGame1\BIGGame\obj\Debug\BIGGame.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BIGGame1\BIGGame\obj\Debug\BIGGame.Properties.Resources.resources
+C:\Users\user\Desktop\BIGGame1\BIGGame\obj\Debug\BIGGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BIGGame1\BIGGame\obj\Debug\BIGGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BIGGame1\BIGGame\obj\Debug\BIGGame.exe
+C:\Users\user\Desktop\BIGGame1\BIGGame\obj\Debug\BIGGame.pdb
+C:\Users\DELL\OneDrive\المستندات\BIGGame1111[1]\BIGGame1\BIGGame\bin\Debug\BIGGame.exe.config
+C:\Users\DELL\OneDrive\المستندات\BIGGame1111[1]\BIGGame1\BIGGame\bin\Debug\BIGGame.exe
+C:\Users\DELL\OneDrive\المستندات\BIGGame1111[1]\BIGGame1\BIGGame\bin\Debug\BIGGame.pdb
+C:\Users\DELL\OneDrive\المستندات\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\المستندات\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.Properties.Resources.resources
+C:\Users\DELL\OneDrive\المستندات\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\المستندات\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\المستندات\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.exe
+C:\Users\DELL\OneDrive\المستندات\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.pdb
+C:\BIG GAME VERSIONS\BIGGame1111[2]new\BIGGame1111[1]\BIGGame1\BIGGame\bin\Debug\BIGGame.exe.config
+C:\BIG GAME VERSIONS\BIGGame1111[2]new\BIGGame1111[1]\BIGGame1\BIGGame\bin\Debug\BIGGame.exe
+C:\BIG GAME VERSIONS\BIGGame1111[2]new\BIGGame1111[1]\BIGGame1\BIGGame\bin\Debug\BIGGame.pdb
+C:\BIG GAME VERSIONS\BIGGame1111[2]new\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.csproj.AssemblyReference.cache
+C:\BIG GAME VERSIONS\BIGGame1111[2]new\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.Properties.Resources.resources
+C:\BIG GAME VERSIONS\BIGGame1111[2]new\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.csproj.GenerateResource.cache
+C:\BIG GAME VERSIONS\BIGGame1111[2]new\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.csproj.CoreCompileInputs.cache
+C:\BIG GAME VERSIONS\BIGGame1111[2]new\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.exe
+C:\BIG GAME VERSIONS\BIGGame1111[2]new\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.pdb
+C:\Users\DELL\OneDrive\المستندات\newestofalltime[1]\BIGGame1111[1]\BIGGame1\BIGGame\bin\Debug\BIGGame.exe.config
+C:\Users\DELL\OneDrive\المستندات\newestofalltime[1]\BIGGame1111[1]\BIGGame1\BIGGame\bin\Debug\BIGGame.exe
+C:\Users\DELL\OneDrive\المستندات\newestofalltime[1]\BIGGame1111[1]\BIGGame1\BIGGame\bin\Debug\BIGGame.pdb
+C:\Users\DELL\OneDrive\المستندات\newestofalltime[1]\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\المستندات\newestofalltime[1]\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.Properties.Resources.resources
+C:\Users\DELL\OneDrive\المستندات\newestofalltime[1]\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\المستندات\newestofalltime[1]\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\المستندات\newestofalltime[1]\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.exe
+C:\Users\DELL\OneDrive\المستندات\newestofalltime[1]\BIGGame1111[1]\BIGGame1\BIGGame\obj\Debug\BIGGame.pdb
